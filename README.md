@@ -18,8 +18,8 @@ The table below outlines the calculated supernumerary seat capacities for Intern
 
 This totaling each column might suggest 500+ seats are reserved but that's not true as there aren't so many people representing India, total number would be hardly 20-30, of whom half will probably choose to study overseas and you will be left with 10-15
 However the introduction of supernumerary seats kind of ensure anyone who represents the country i.e. 20-30 people are ensured a seat in IIT. Going forward I see two action items:
- - If anyone who makes to training camp ie 150-200 people is assured a seat at IIT India's performance can potentially improve dramatically
- - All IITs implement supernumerary seat capacities for International Olympiad medalists or even Training camp qualifiers it can boost India's performance too.
+ - If anyone who makes to training camp ie 150-200 people is assured a seat at IIT, India's performance can potentially improve dramatically
+ - If all IITs implement supernumerary seat capacities for International Olympiad medalists or even Training camp qualifiers, it can boost India's performance too.
 
 ### National Olympiad Training Camp Pool Summary
 
