@@ -32,3 +32,12 @@ However the introduction of supernumerary seats kind of ensure anyone who repres
 | **Biology** | OCSC | **~35 students** | 4 students |
 | **TOTAL POOL** | | **~211 Students** | **23 Students** |
 
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Olympiad-Medalists-IIT-Seats&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Olympiad-Medalists-IIT-Seats_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Olympiad-Medalists-IIT-Seats_growth.svg">
+  </picture>
+</a>
